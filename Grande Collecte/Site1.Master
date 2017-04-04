@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Grande_Collecte.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="CSS/GrandeCollecte.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    
+    
+        
+
+
+        <div id="Topnav_1">
+         <nav>
+		<a href="default.aspx">HOME</a>
+		<a href="Products.aspx">COLLECTE</a>
+		<a href="Contact.aspx">CONTACT US</a>
+        <a href="About.aspx">ABOUT US</a>
+         </nav>
+        </div>
+
+     
+   
+     
+    
+
+        
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <div id="Footer_1">
+
+   <footer>&copy; Copyright 2017 | Nur'Afifah Binti Haji Norazme</footer>
+   </div> 
+    
+    </form>
+</body>
+</html>

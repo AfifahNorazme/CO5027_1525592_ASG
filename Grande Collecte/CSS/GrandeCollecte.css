@@ -1,0 +1,424 @@
+﻿body {
+      
+
+
+}
+
+
+
+#Topnav_1 {
+			width: 97.2%;
+			padding: 20PX 20PX;
+			border: 5px lightgray;
+			text-align: center;
+			margin-top: 5px;
+			font-family: Gabriola;
+			font-size: 25px;
+			background-color: #fb8181;
+			}
+
+#Topnav_1 a{
+			color: white;
+            margin:20px;
+            padding:10px 10px;
+            text-decoration: none;
+            }
+
+#Topnav_1 a:hover {
+			background-color: lightgray;
+			}
+			
+#Topnav_1 ul li a{
+			cursor: pointer;
+			text-decoration: none;
+			padding: 0.1em 1.0em;
+			color: white;
+			}
+
+#Topnav_1 ul li a:hover{
+			color: white;
+			background-color: black;
+			}
+
+
+
+
+#Footer_1{ clear:both;
+           padding: 0px 0;
+           margin: 10px;  
+           font-size: 20px; 
+           font-weight: bold; 
+           color:#fb8181;
+          
+
+}
+
+#productcontainer {
+    width: 92.3%;
+    padding: 50px;
+    background-color: beige;
+    margin:auto;
+    text-align:center;
+    border: solid lightgray;
+    font-family: Gabriola;
+    font-size: 25px;
+    color: palevioletred;
+}
+
+
+
+#productimages {
+    clear: both;
+    list-style-type: none;
+    display: inline-table;
+    padding: 30PX 30PX;
+    text-align:center;
+    margin:auto;
+    
+}   		
+
+#Footer_2      {
+           clear:both;
+           padding: 0px 0;
+           margin: 10px;  
+           font-size: 20px; 
+           font-weight: bold; 
+           color:#fb8181;
+          
+}
+
+#blazzercontainer {
+           height: 530px;
+           width: 92.3%;
+           padding: 50px;
+           background-color: beige;
+           border: solid lightgray;
+           text-align: center;
+}
+
+#header4 {
+           font-family: Gabriola;
+           font-size: 30px;
+           color: #fb8181;
+           text-align: center;
+           padding: 5px;
+           margin: 1px 1px;
+}
+
+#blazzerimg {
+    clear: both;
+    list-style-type: none;
+    display: inline-table;
+    float: left;
+   
+}
+
+#bdetail {
+    font-family: Gabriola;
+    font-size: 23px;
+    color: palevioletred;
+    text-align: center;
+}
+
+#Footer_5 {
+    clear: both;
+    padding: 0px 0;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fb8181;
+}
+
+#cardigancontainer {
+    height: 650px;
+    width: 92%;
+    padding: 50px;
+    background-color: beige;
+    margin-left: 3px;
+    margin-right: 4px;
+    border: solid lightgray;
+}
+
+#header5 {
+    font-family: Gabriola;
+    font-size: 30px;
+    color: #fb8181;
+    text-align: center;
+    padding: 5px;
+    margin: 1px 1px;
+}
+
+#cardiganimg {
+    clear: both;
+    list-style-type: none;
+    display: inline-table;
+    float: left;
+   
+}
+
+#cdetail {
+    font-family: Gabriola;
+    font-size: 23px;
+    color: palevioletred;
+    text-align: center;
+}
+
+#Footer_6 {
+    clear: both;
+    padding: 0px 0;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fb8181;
+}
+
+#jollycontainer {
+    height: 650px;
+    width: 92%;
+    padding: 50px;
+    background-color: beige;
+    margin-left: 3px;
+    margin-right: 4px;
+    border: solid lightgray;
+}
+
+#header6 {
+    font-family: Gabriola;
+    font-size: 30px;
+    color: #fb8181;
+    text-align: center;
+    padding: 5px;
+    margin: 1px 1px;
+}
+
+#jollyimg {
+    clear: both;
+    list-style-type: none;
+    display: inline-table;
+    float: left;
+}
+
+#jdetail {
+    font-family: Gabriola;
+    font-size: 23px;
+    color: palevioletred;
+    text-align: center;
+}
+
+#Footer_7 {
+    clear: both;
+    padding: 0px 0;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fb8181;
+}
+
+
+#hoodiecontainer {
+    height: 620px;
+    width: 92%;
+    padding: 50px;
+    background-color: beige;
+    margin-left: 3px;
+    margin-right: 4px;
+    border: solid lightgray;
+}
+
+#header7 {
+    font-family: Gabriola;
+    font-size: 30px;
+    color: #fb8181;
+    text-align: center;
+    padding: 5px;
+    margin: 1px 1px;
+}
+
+#hoodieimg {
+    clear: both;
+    list-style-type: none;
+    display: inline-table;
+    float: left;
+}
+
+#hdetail {
+    font-family: Gabriola;
+    font-size: 23px;
+    color: palevioletred;
+    text-align: center;
+}
+
+#Footer_8 {
+    clear: both;
+    padding: 0px 0;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fb8181;
+}
+
+
+
+
+
+#img {
+background-attachment: fixed;   
+background-size: 95%;
+margin: auto;
+}
+
+
+#contactcontainer   {
+height:530px;
+			width:92%;
+			padding: 50px;
+			background-color: beige;
+            margin-left: 3px;
+            margin-right: 4px;
+           border: solid lightgray;
+    
+}
+
+#header1  {
+            font-family: Gabriola;
+			font-size:20px;
+			color: #fb8181;
+			text-align: center;
+			padding: 5px;
+            margin: 1px 1px;
+			}
+
+
+
+#fullname {
+            font-family: Gabriola;
+            font-size: 20px;
+            color: palevioletred;
+            text-align: justify;
+            margin-top:0px;
+            margin-bottom:0px;
+}
+
+#telephone {
+    font-family: Gabriola;
+    font-size: 20px;
+    color: palevioletred;
+    text-align: right;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+#email   {
+            font-family: Gabriola;
+            font-size: 20px;
+            color: palevioletred;
+            text-align: justify;
+
+
+}
+
+
+#mobileno   {
+            font-family: Gabriola;
+            font-size: 20px;
+            color: palevioletred;
+            text-align: justify;
+
+
+
+}
+
+
+#address    {
+            font-family: Gabriola;
+            font-size: 20px;
+            color: palevioletred;
+            text-align: justify;
+
+}
+
+
+#question    {
+            font-family: Gabriola;
+            font-size: 20px;
+            color: palevioletred;
+            text-align: justify;
+    height: 108px;
+}
+
+
+#Submit   {
+            font-family: Gabriola;
+            font-size: 20px;
+            color: lavenderblush;
+            text-align: right;
+
+             
+}
+
+
+#Footer_3     {
+           clear:both;
+           padding: 0px 0;
+           margin: 10px;  
+           font-size: 20px; 
+           font-weight: bold; 
+           color:#fb8181;
+          
+}
+
+#header2   {
+            font-family: Gabriola;
+			font-size:30px;
+			color: #fb8181;
+			text-align: justify;
+			padding: 5px;
+            margin: 1px 1px;
+			}
+
+#aboutcontainer {
+    height:530px;
+			width:93.4%;
+			padding: 50px;
+			background-color: beige;
+           border: solid lightgray;
+           text-align: center;
+}
+
+
+#aboutimage {
+    margin-left: 4px;
+    margin-right: 20px;
+}
+
+#aboutcontent   {
+            font-family: Gabriola;
+			font-size: 23px;
+			color: palevioletred;
+
+
+}
+
+
+#Footer_4       {
+           clear:both;
+           padding: 0px 0;
+           margin: 10px;  
+           font-size: 20px; 
+           font-weight: bold; 
+           color:#fb8181;
+          
+
+
+
+}
+
+#header3 {
+    font-family: Gabriola;
+    font-size: 30px;
+    color: #fb8181;
+    text-align: justify;
+    padding: 5px;
+    margin: 1px 1px;
+}
