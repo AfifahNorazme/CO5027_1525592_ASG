@@ -77,15 +77,7 @@
     
 }   		
 
-#Footer_2      {
-           clear:both;
-           padding: 0px 0;
-           margin: 10px;  
-           font-size: 20px; 
-           font-weight: bold; 
-           color:#fb8181;
-          
-}
+
 
 #blazzercontainer {
            height: 530px;
@@ -120,14 +112,7 @@
     text-align: center;
 }
 
-#Footer_5 {
-    clear: both;
-    padding: 0px 0;
-    margin: 10px;
-    font-size: 20px;
-    font-weight: bold;
-    color: #fb8181;
-}
+
 
 #cardigancontainer {
     height: 650px;
@@ -163,14 +148,7 @@
     text-align: center;
 }
 
-#Footer_6 {
-    clear: both;
-    padding: 0px 0;
-    margin: 10px;
-    font-size: 20px;
-    font-weight: bold;
-    color: #fb8181;
-}
+
 
 #jollycontainer {
     height: 650px;
@@ -205,14 +183,7 @@
     text-align: center;
 }
 
-#Footer_7 {
-    clear: both;
-    padding: 0px 0;
-    margin: 10px;
-    font-size: 20px;
-    font-weight: bold;
-    color: #fb8181;
-}
+
 
 
 #hoodiecontainer {
@@ -248,16 +219,73 @@
     text-align: center;
 }
 
-#Footer_8 {
-    clear: both;
-    padding: 0px 0;
-    margin: 10px;
-    font-size: 20px;
-    font-weight: bold;
+
+#blousecontainer {
+    height: 620px;
+    width: 92%;
+    padding: 50px;
+    background-color: beige;
+    margin-left: 3px;
+    margin-right: 4px;
+    border: solid lightgray;
+}
+
+#header8 {
+    font-family: Gabriola;
+    font-size: 30px;
     color: #fb8181;
+    text-align: center;
+    padding: 5px;
+    margin: 1px 1px;
+}
+
+#blouseimg {
+    clear: both;
+    list-style-type: none;
+    display: inline-table;
+    float: left;
+}
+
+#bldetail {
+    font-family: Gabriola;
+    font-size: 23px;
+    color: palevioletred;
+    text-align: center;
 }
 
 
+#skirtcontainer {
+    height: 620px;
+    width: 92%;
+    padding: 50px;
+    background-color: beige;
+    margin-left: 3px;
+    margin-right: 4px;
+    border: solid lightgray;
+}
+
+#header9 {
+    font-family: Gabriola;
+    font-size: 30px;
+    color: #fb8181;
+    text-align: center;
+    padding: 5px;
+    margin: 1px 1px;
+}
+
+#skirtimg {
+    clear: both;
+    list-style-type: none;
+    display: inline-table;
+    float: left;
+}
+
+#sdetail {
+    font-family: Gabriola;
+    font-size: 23px;
+    color: palevioletred;
+    text-align: center;
+}
 
 
 
@@ -269,7 +297,7 @@ margin: auto;
 
 
 #contactcontainer   {
-height:530px;
+            height:530px;
 			width:92%;
 			padding: 50px;
 			background-color: beige;
@@ -344,7 +372,7 @@ height:530px;
             font-size: 20px;
             color: palevioletred;
             text-align: justify;
-    height: 108px;
+            height: 108px;
 }
 
 
@@ -357,16 +385,6 @@ height:530px;
              
 }
 
-
-#Footer_3     {
-           clear:both;
-           padding: 0px 0;
-           margin: 10px;  
-           font-size: 20px; 
-           font-weight: bold; 
-           color:#fb8181;
-          
-}
 
 #header2   {
             font-family: Gabriola;
@@ -401,18 +419,7 @@ height:530px;
 }
 
 
-#Footer_4       {
-           clear:both;
-           padding: 0px 0;
-           margin: 10px;  
-           font-size: 20px; 
-           font-weight: bold; 
-           color:#fb8181;
-          
 
-
-
-}
 
 #header3 {
     font-family: Gabriola;

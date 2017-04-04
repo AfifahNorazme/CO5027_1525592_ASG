@@ -16,8 +16,8 @@
     <td><a href="cardigan.aspx"><img src="Grande%20Collecte%20images/cardigan.jpg" height="350" width="250" alt="VICTORIA CARDIGAN"/></a></td>
     <td><a href="jollypants.aspx"><img src="Grande%20Collecte%20images/jollypants.jpg" height="350" width="250" alt="RELAXED JOLLY PANTS"/></a></td></tr>
     <tr><td><a href="hoodie.aspx"><img src="Grande%20Collecte%20images/hoodie.jpg" height="350" width="250" alt="CAPE HOODIE"/></a></td>
-    <td><a href="blouse.aspx"><img src="Grande%20Collecte%20images/blouse.jpg" height="350" width="250" alt="ANASTASIA PINK BLAZZER"/></a></td>
-    <td><a href="skirt.aspx"><img src="Grande%20Collecte%20images/skirt.jpg" height="350" width="250" alt="ANASTASIA PINK BLAZZER"/></a></td></tr>
+    <td><a href="blouse.aspx"><img src="Grande%20Collecte%20images/blouse.jpg" height="350" width="250" alt="CLAUDIA SENROSE BLOUSE"/></a></td>
+    <td><a href="skirt.aspx"><img src="Grande%20Collecte%20images/skirt.jpg" height="350" width="250" alt="SYLVIA GREEN SKIRT"/></a></td></tr>
 
     </table>
     </div>
