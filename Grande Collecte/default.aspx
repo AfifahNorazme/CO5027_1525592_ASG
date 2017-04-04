@@ -7,7 +7,7 @@
 
     <img src="Grande%20Collecte%20images/bggc4.jpg" />
     
-    </div>
+    </div> 
     
 
     
