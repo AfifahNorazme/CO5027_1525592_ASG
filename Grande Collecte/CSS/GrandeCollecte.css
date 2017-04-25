@@ -297,7 +297,7 @@ margin: auto;
 
 
 #contactcontainer   {
-            height:530px;
+            height:1070px;
 			width:92%;
 			padding: 50px;
 			background-color: beige;
@@ -366,8 +366,16 @@ margin: auto;
 
 }
 
+#subject {
+            font-family: Gabriola;
+            font-size: 20px;
+            color: palevioletred;
+            text-align: justify;
+            height: 108px;
+         }
 
-#question    {
+
+#message   {
             font-family: Gabriola;
             font-size: 20px;
             color: palevioletred;
@@ -381,10 +389,14 @@ margin: auto;
             font-size: 20px;
             color: lavenderblush;
             text-align: right;
-
-             
+          
 }
 
+#gcmap {
+    width: 100%;
+    height: 400px;
+    background-color: palevioletred;
+}
 
 #header2   {
             font-family: Gabriola;
@@ -428,4 +440,125 @@ margin: auto;
     text-align: justify;
     padding: 5px;
     margin: 1px 1px;
+}
+
+
+#logincontainer {
+    height: 520px;
+    width: 92%;
+    padding: 50px;
+    background-color: beige;
+    margin-left: 3px;
+    margin-right: 4px;
+    border: solid lightgray;
+}
+
+
+#header10 {
+    font-family: Gabriola;
+    font-size: 20px;
+    color: #fb8181;
+    text-align: center;
+    padding: 5px;
+    margin: 1px 1px;
+}
+
+#loginID {
+    font-family: Gabriola;
+    font-size: 20px;
+    color: palevioletred;
+    text-align: justify;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#password {
+    font-family: Gabriola;
+    font-size: 20px;
+    color: palevioletred;
+    text-align: justify;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#Login     {
+    text-align: right;
+}
+
+#register     {
+    text-align: center;
+    font-family: Gabriola;
+    font-size: 20px;
+    color: #fb8181;
+}
+
+#registercontainer {
+    height: 550px;
+    width: 92%;
+    padding: 50px;
+    background-color: beige;
+    margin-left: 3px;
+    margin-right: 4px;
+    border: solid lightgray;
+}
+
+#header11 {
+    font-family: Gabriola;
+    font-size: 20px;
+    color: #fb8181;
+    text-align: center;
+    padding: 5px;
+    margin: 1px 1px;
+}
+
+#signemail {
+    font-family: Gabriola;
+    font-size: 20px;
+    color: palevioletred;
+    text-align: justify;
+}
+
+#username {
+    font-family: Gabriola;
+    font-size: 20px;
+    color: palevioletred;
+    text-align: justify;
+}
+
+#signupmobile {
+    font-family: Gabriola;
+    font-size: 20px;
+    color: palevioletred;
+    text-align: justify;
+}
+
+#rpassword {
+    font-family: Gabriola;
+    font-size: 20px;
+    color: palevioletred;
+    text-align: justify;
+}
+
+#Signupregister      {
+    text-align: right;
+}
+
+#privatecontainer {
+    height: 300px;
+    width: 92%;
+    padding: 50px;
+    background-color: beige;
+    margin-left: 3px;
+    margin-right: 4px;
+    border: solid lightgray;
+}
+
+#privatecontent {
+    font-family: Gabriola;
+    font-size: 23px;
+    color: palevioletred;
+}
+
+#logout     {
+    text-align: right;
 }

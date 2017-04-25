@@ -10,52 +10,52 @@
 namespace Grande_Collecte {
     
     
-    public partial class Contact {
+    public partial class Register {
         
         /// <summary>
-        /// LblName control.
+        /// LblSign control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LblName;
+        protected global::System.Web.UI.WebControls.Label LblSign;
         
         /// <summary>
-        /// TxtName control.
+        /// TxtSign control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TxtName;
+        protected global::System.Web.UI.WebControls.TextBox TxtSign;
         
         /// <summary>
-        /// LblEmail control.
+        /// Lblusername control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LblEmail;
+        protected global::System.Web.UI.WebControls.Label Lblusername;
         
         /// <summary>
-        /// TxtEmail control.
+        /// TxtUsername control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TxtEmail;
+        protected global::System.Web.UI.WebControls.TextBox TxtUsername;
         
         /// <summary>
-        /// LblMobile control.
+        /// Lblsignmobile control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LblMobile;
+        protected global::System.Web.UI.WebControls.Label Lblsignmobile;
         
         /// <summary>
         /// TxtMobile control.
@@ -67,57 +67,39 @@ namespace Grande_Collecte {
         protected global::System.Web.UI.WebControls.TextBox TxtMobile;
         
         /// <summary>
-        /// LblSubject control.
+        /// Lblrpassword control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LblSubject;
+        protected global::System.Web.UI.WebControls.Label Lblrpassword;
         
         /// <summary>
-        /// TxtSubject control.
+        /// Txtpassword control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TxtSubject;
+        protected global::System.Web.UI.WebControls.TextBox Txtpassword;
         
         /// <summary>
-        /// LblMessage control.
+        /// regbtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LblMessage;
+        protected global::System.Web.UI.WebControls.Button regbtn;
         
         /// <summary>
-        /// TxtMessage control.
+        /// LitRegister control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TxtMessage;
-        
-        /// <summary>
-        /// LitMessage control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Literal LitMessage;
-        
-        /// <summary>
-        /// Submitbtn control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Submitbtn;
+        protected global::System.Web.UI.WebControls.Literal LitRegister;
     }
 }
