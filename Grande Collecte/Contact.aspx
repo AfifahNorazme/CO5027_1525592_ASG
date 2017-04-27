@@ -27,7 +27,7 @@
     <div id="email">
     <br />
     <asp:Label ID="LblEmail" runat="server" Text="EMAIL : "></asp:Label>&nbsp;&nbsp;
-    <asp:TextBox ID="TxtEmail" runat="server" Width="536px"></asp:TextBox>
+    <asp:TextBox ID="TxtEmail" runat="server" Width="536px" TextMode="Email"></asp:TextBox>
         <asp:RequiredFieldValidator ID="emailvalid" runat="server" ErrorMessage="Please enter your email" ForeColor="Red" ControlToValidate="TxtEmail"></asp:RequiredFieldValidator>
         <br />
     </div>
