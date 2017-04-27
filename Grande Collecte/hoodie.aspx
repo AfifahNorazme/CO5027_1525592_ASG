@@ -8,7 +8,7 @@
 <h2>CAPE HOODIE</h2>
 
 <div id="hoodieimg">
-<img src="Grande%20Collecte%20images/hoodie.jpg" height: "200" width: "300" alt="hoodie"/>
+<img src="Grande%20Collecte%20images/hoodie.jpg" height: "400" width: "300" alt="hoodie"/>
 </div>
 
 <div id="hdetail">

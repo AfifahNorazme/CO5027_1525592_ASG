@@ -8,7 +8,7 @@
 <h2>CLAUDIA SENROSE BLOUSE</h2>
 
 <div id="blouseimg">
- <img src="Grande%20Collecte%20images/blouse.jpg" height: "200" width: "300" alt="blouse" />
+ <img src="Grande%20Collecte%20images/blouse.jpg" height: "400" width: "300" alt="blouse" />
 </div>
 
 <div id="bldetail">

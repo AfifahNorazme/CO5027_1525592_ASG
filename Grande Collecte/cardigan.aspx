@@ -8,7 +8,7 @@
 <h2>VICTORIA CARDIGAN</h2>
 
 <div id="cardiganimg">
-<img src="Grande%20Collecte%20images/cardigan.jpg" height: "320" width: "300" alt="cardigan" />
+<img src="Grande%20Collecte%20images/cardigan.jpg" height: "400" width: "300" alt="cardigan"/>
 </div>
 
 <div id="cdetail">

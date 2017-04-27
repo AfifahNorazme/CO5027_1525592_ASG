@@ -8,7 +8,7 @@
 <h2>RELAXED JOLLYPANTS</h2>
 
 <div id="jollyimg">
-<img src="Grande%20Collecte%20images/jollypants.jpg"  height: "200" width: "300" alt="jollypant" />
+<img src="Grande%20Collecte%20images/jollypants.jpg"  height: "400" width: "300" alt="jollypant" />
 </div>
 
 <div id="jdetail">

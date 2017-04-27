@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="Grande_Collecte.About" %>
+﻿<%@ Page Title="ABOUT" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="Grande_Collecte.About" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -7,7 +7,7 @@
 
     
 <div id="aboutimage">
-  <img src="Grande%20Collecte%20images/mc-WEB-about-us-02-02.jpg" />
+  <img src="Grande%20Collecte%20images/mc-WEB-about-us-02-02.jpg" alt="abtimage"/>
 
 
 

@@ -8,7 +8,7 @@
 <h2>SYLVIA GREEN SKIRT </h2>
 
 <div id="skirtimg">
-<img src="Grande%20Collecte%20images/skirt.jpg" height: "200" width: "300" alt="skirt"/>
+<img src="Grande%20Collecte%20images/skirt.jpg" height: "400" width: "300" alt="skirt"/>
 </div>
 
 <div id="sdetail">
