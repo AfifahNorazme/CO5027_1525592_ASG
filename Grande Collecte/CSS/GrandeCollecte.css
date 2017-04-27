@@ -49,9 +49,30 @@
            font-size: 20px; 
            font-weight: bold; 
            color:#fb8181;
-           text-align: center;
+           text-align: left;
           
 
+}
+
+#homecontainer {
+    width: 92.3%;
+    padding: 50px;
+    background-color: #F5F5DC;
+    margin: auto;
+    text-align: center;
+    border-color: #D3D3D3;
+    font-family: Gabriola;
+    font-size: 25px;
+    color: #DB7093;
+
+}
+#pimages {
+    clear: both;
+    list-style-type: none;
+    display: inline-table;
+    padding: 30PX 30PX;
+    text-align: center;
+    margin: auto;
 }
 
 #productcontainer {

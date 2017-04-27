@@ -31,6 +31,15 @@ namespace Grande_Collecte {
         protected global::System.Web.UI.WebControls.TextBox TxtName;
         
         /// <summary>
+        /// fullnamevalid control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator fullnamevalid;
+        
+        /// <summary>
         /// LblEmail control.
         /// </summary>
         /// <remarks>
@@ -47,6 +56,15 @@ namespace Grande_Collecte {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TxtEmail;
+        
+        /// <summary>
+        /// emailvalid control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator emailvalid;
         
         /// <summary>
         /// LblMobile control.
@@ -67,6 +85,15 @@ namespace Grande_Collecte {
         protected global::System.Web.UI.WebControls.TextBox TxtMobile;
         
         /// <summary>
+        /// mobilevalid control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator mobilevalid;
+        
+        /// <summary>
         /// LblSubject control.
         /// </summary>
         /// <remarks>
@@ -85,6 +112,15 @@ namespace Grande_Collecte {
         protected global::System.Web.UI.WebControls.TextBox TxtSubject;
         
         /// <summary>
+        /// subjectvalid control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator subjectvalid;
+        
+        /// <summary>
         /// LblMessage control.
         /// </summary>
         /// <remarks>
@@ -101,6 +137,15 @@ namespace Grande_Collecte {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TxtMessage;
+        
+        /// <summary>
+        /// messagevalid control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator messagevalid;
         
         /// <summary>
         /// LitMessage control.
