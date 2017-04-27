@@ -36,7 +36,7 @@
     <div id="mobileno">
     <br />
     <asp:Label ID="LblMobile" runat="server" Text="MOBILE NO :"></asp:Label>&nbsp;
-    <asp:TextBox ID="TxtMobile" runat="server" Width="512px"></asp:TextBox>
+    <asp:TextBox ID="TxtMobile" runat="server" Width="512px" TextMode="Number"></asp:TextBox>
         <asp:RequiredFieldValidator ID="mobilevalid" runat="server" ErrorMessage="Please enter your mobile number" ForeColor="Red" ControlToValidate="TxtMobile"></asp:RequiredFieldValidator>
         <br />
     </div>
