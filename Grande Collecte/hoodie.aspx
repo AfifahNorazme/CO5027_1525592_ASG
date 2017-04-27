@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="hoodie.aspx.cs" Inherits="Grande_Collecte.hoodie" %>
+﻿<%@ Page Title="HOODIE" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="hoodie.aspx.cs" Inherits="Grande_Collecte.hoodie" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -8,7 +8,7 @@
 <h2>CAPE HOODIE</h2>
 
 <div id="hoodieimg">
-<img src="Grande%20Collecte%20images/hoodie.jpg" height: "200" width: "300" />
+<img src="Grande%20Collecte%20images/hoodie.jpg" height: "200" width: "300" alt="hoodie"/>
 </div>
 
 <div id="hdetail">

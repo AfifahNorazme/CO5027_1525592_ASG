@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="jollypants.aspx.cs" Inherits="Grande_Collecte.jollypants" %>
+﻿<%@ Page Title="JOLLYPANTS" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="jollypants.aspx.cs" Inherits="Grande_Collecte.jollypants" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -8,7 +8,7 @@
 <h2>RELAXED JOLLYPANTS</h2>
 
 <div id="jollyimg">
-<img src="Grande%20Collecte%20images/jollypants.jpg"  height: "200" width: "300" />
+<img src="Grande%20Collecte%20images/jollypants.jpg"  height: "200" width: "300" alt="jollypant" />
 </div>
 
 <div id="jdetail">

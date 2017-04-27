@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="blazzer.aspx.cs" Inherits="Grande_Collecte.blazzer" %>
+﻿<%@ Page Title="BLAZZER" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="blazzer.aspx.cs" Inherits="Grande_Collecte.blazzer" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -8,7 +8,7 @@
 <h2>ANASTASIA PINK BLAZZER</h2>
 
 <div id="blazzerimg">
-<img src="Grande%20Collecte%20images/blazzer.jpg" height="400" width="300" />
+<img src="Grande%20Collecte%20images/blazzer.jpg" height="400" width="300" alt="blazzer" />
     </div>
 
 <div id="bdetail">

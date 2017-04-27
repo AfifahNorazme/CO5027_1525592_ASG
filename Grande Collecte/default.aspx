@@ -5,7 +5,7 @@
 
     <div id="img">
 
-    <img src="Grande%20Collecte%20images/bggc4.jpg" />
+    <img src="Grande%20Collecte%20images/bggc4.jpg" alt="bgimage" />
     
     </div> 
     
