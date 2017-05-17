@@ -34,9 +34,7 @@
 
 
 
-   <div id="register">
-   <p><a href ="Register.aspx">Not yet our member? Please register here</a></p>
-    </div>    
+  
     </div>
     </div>
 

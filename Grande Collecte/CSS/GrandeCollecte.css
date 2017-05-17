@@ -105,7 +105,7 @@
     height: 530px;
     width: 92.3%;
     padding: 50px;
-    background-color: #DB7093;
+    background-color: #F5F5DC;
     border-color: #D3D3D3;
     text-align: center;
 }
@@ -408,6 +408,8 @@ margin: auto;
           
 }
 
+
+
 #gcmap {
     width: 100%;
     height: 400px;
@@ -424,7 +426,7 @@ margin: auto;
 			}
 
 #aboutcontainer {
-    height:530px;
+            height:650px;
 			width:93.4%;
 			padding: 50px;
 			background-color: #F5F5DC;
@@ -447,6 +449,11 @@ margin: auto;
 }
 
 
+#aboutcontact {
+    font-family: Gabriola;
+    font-size: 23px;
+    color: #2c2b2b;
+}
 
 
 #header3 {

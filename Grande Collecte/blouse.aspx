@@ -19,6 +19,7 @@
 <p>Stretchable	:	Blouse is loose, and very comfortable</p> 
 <p>Thickness	:	Normal </p>
 <p>Special Note	:	Model wearing 3XL blouse and it's on sale!</p>
+<p><b>Price : $25.00</b></p>
 
 </div>
 </div>

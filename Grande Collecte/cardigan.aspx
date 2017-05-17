@@ -19,6 +19,7 @@
 <p>Stretchable	:	Cardigan is slighty stretchable, very comfortable</p> 
 <p>Thickness	:	Normal </p>
 <p>Special Note	:	Model wearing 2XL cardigan and it's on sale!</p>
+<p><b>Price : $35.00</b></p>
 
 </div>
 </div>

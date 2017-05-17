@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace Grande_Collecte
 {
-    public partial class Products : System.Web.UI.Page
+    public partial class ProductDtl : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {

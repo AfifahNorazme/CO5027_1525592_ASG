@@ -19,6 +19,7 @@
 <p>Stretchable	:	Hoodie is slighty stretchable and loose, and very comfortable</p> 
 <p>Thickness	:	Normal </p>
 <p>Special Note	:	Model wearing 3XL hoodie and it's on sale!</p>
+<p><b>Price : $30.00</b></p>
 
 </div>
 </div>

@@ -19,6 +19,7 @@
 <p>Stretchable	:	Top is slighty stretchable, skirt is very stretchable</p> 
 <p>Thickness	:	Normal </p>
 <p>Special Note	:	Model wearing 2XL blazzer and it's on sale!</p>
+<p><b>Price : $40.00</b></p>
 
 
 </div>

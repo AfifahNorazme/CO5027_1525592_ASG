@@ -19,6 +19,7 @@
 <p>Stretchable	:	Skirt is slighty stretchable and loose, and very comfortable</p> 
 <p>Thickness	:	Normal </p>
 <p>Special Note	:	Model wearing 3XL skirt and it's on sale!</p>
+<p><b>Price : $30.00</b></p>
 
 </div>
 </div>

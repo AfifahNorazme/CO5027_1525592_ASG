@@ -19,6 +19,7 @@
 <p>Stretchable	:	Jeans is slighty stretchable, very comfortable and suitable for plus size</p> 
 <p>Thickness	:	Normal </p>
 <p>Special Note	:	Model wearing 3XL jeans and it's on sale!</p>
+<p><b>Price : $45.00</b></p>
 
 </div>
 </div>

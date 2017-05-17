@@ -19,7 +19,6 @@
         <div id="Topnav_1">
          <nav>
 		<a href="~/default.aspx" runat="server">HOME</a>
-		<a href="~/Products.aspx" runat="server">COLLECTE</a>
 		<a href="~/Contact.aspx" runat="server">CONTACT US</a>
         <a href="~/About.aspx" runat="server">ABOUT US</a>
         <a href="~/Login.aspx" runat="server">LOG IN</a>
@@ -46,7 +45,7 @@
             src="http://css-validator.org/images/vcss.png"
             alt="Valid CSS!" />
     </a>
-                
+       <a href="~/Admin.aspx" runat="server">ADMIN</a>         
 </p>
 
    <footer>&copy; Copyright 2017 | Nur'Afifah Binti Haji Norazme</footer>

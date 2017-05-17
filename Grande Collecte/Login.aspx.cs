@@ -20,14 +20,14 @@ namespace Grande_Collecte
         {
                 if (Page.IsValid)
                 {
-                    var identityDbContext = new IdentityDbContext("IdentityConnectionString");
+                    var identityDbContext = new IdentityDbContext("db_1525592_co5027_asgConnectionString");
                     var userStore = new UserStore<IdentityUser>(identityDbContext);
                     var userManager = new UserManager<IdentityUser>(userStore);
                     var user = userManager.Find(TxtUsername.Text, Txtpswd.Text);
                     if (user != null)
                     {
                     LogUserIn(userManager, user);
-                        Server.Transfer("Private.aspx", true);
+                        Server.Transfer("Admin.aspx", true);
                     }
                     else
                     {

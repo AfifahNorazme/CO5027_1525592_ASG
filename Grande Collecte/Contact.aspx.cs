@@ -26,10 +26,10 @@ namespace Grande_Collecte
 
             smtpClient.Credentials = credentials;
 
-            MailMessage msg = new MailMessage("grandecollecteco5027lcb@gmail.com", TxtEmail.Text);
+            MailMessage msg = new MailMessage("grandecollecteco5027lcb@gmail.com", "grandecollecteco5027lcb@gmail.com" );
             msg.Subject = "Name: " + TxtName.Text + "Subject: " + TxtSubject.Text;
             msg.Body = TxtMessage.Text;
-            smtpClient.Send(msg);
+           
 
             try
             {
